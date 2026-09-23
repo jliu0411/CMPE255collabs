@@ -8,7 +8,7 @@ Intro to Numpy: https://youtu.be/tQMfdql45QU
 
 Intro to Pandas: 
 
-Intro to Matplotlib: 
+Intro to Matplotlib: https://youtu.be/DnnhcuFCJNg
 
 Basic linear algebra:
 
